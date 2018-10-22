@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "536953114951",
+    "firebase_url": "https://farah-hmetek-v.firebaseio.com",
+    "project_id": "farah-hmetek-v",
+    "storage_bucket": "farah-hmetek-v.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536953114951:android:c090bbb37e118873",
+        "android_client_info": {
+          "package_name": "com.hmetek.farah.farahhmetekv4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536953114951-q7fjt0gpvtq1a5vhokfj20a90ccitbut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hmetek.farah.farahhmetekv4",
+            "certificate_hash": "cb4d3c1308b7e5423151e7e5a9c40652c0ef82ac"
+          }
+        },
+        {
+          "client_id": "536953114951-h7bkfqmvi6c6f8p14lauqh8bu5pnl9s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAKrXiFZDBQ_G2ZnkCindfF20ektTxx5I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536953114951-h7bkfqmvi6c6f8p14lauqh8bu5pnl9s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
